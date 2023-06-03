@@ -1,2 +1,2 @@
 # spect-detection
-simple project that can detect cardic single proton emision tomor by using ML algorithm
+cardic single proton emision tomor detector by using ML algorithm
