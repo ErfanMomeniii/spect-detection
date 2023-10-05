@@ -1,2 +1,2 @@
 # spect-detection
-cardic single proton emision tomor detector by using ML algorithm
+cardiac single proton emission tumor detector by using the ML algorithm
